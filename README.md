@@ -26,19 +26,19 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
 ```sh
-   git clone https://github.com/alBz/Java21-MongoDB-CRUD.git
+git clone https://github.com/AlbertoBarrago/java21.git
 ```
 
 Build the project:
 
 ```sh 
-cd Java21-MongoDB-CRUD
+mvn clean install
 ```
 
 Run the application:
 
 ```sh
-   ./mvn bootRun
+./mvn bootRun
 ```
 
 # Usage
