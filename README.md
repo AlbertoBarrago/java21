@@ -1,4 +1,4 @@
-# Java21 MongoDB CRUD App
+# Java21 ❤️
 
 Java21 is an open-source Java application that exposes all the methods of a MongoDB repository and offers CRUD (Create,
 Read, Update, Delete) functionality. This project is maintained by Alberto Barrago (alBz).
@@ -66,6 +66,11 @@ We welcome contributions from the community. If you'd like to contribute to this
 
 # License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
+
+
+## Works in Progress
+
+- Add new Java features: This feature is currently under development and will be available soon.
 
 
 
