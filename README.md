@@ -38,7 +38,7 @@ cd Java21-MongoDB-CRUD
 Run the application:
 
 ```sh
-   ./gradlew bootRun
+   ./mvn bootRun
 ```
 
 # Usage
